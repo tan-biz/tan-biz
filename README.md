@@ -12,7 +12,7 @@
        alt="stats graph" /> <br>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=tan-biz&locale=en&mode=daily=true&theme=chartreuse-dark&hide_border=false&border_radius=5" 
+  <img src="https://streak-stats.demolab.com?user=tan-biz&locale=en&mode=daily=true&theme=chartreuse-dark&hide_border=false&border_radius=40" 
        height="200" 
        width="1000" 
        alt="streak graph" /> <br>
