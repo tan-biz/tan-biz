@@ -18,7 +18,7 @@
        alt="streak graph" /> <br>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tan-biz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&border_radius=35" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tan-biz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&border_radius=20" 
        height="200" 
        width="1000" 
        alt="languages graph"  />
