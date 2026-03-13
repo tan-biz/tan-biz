@@ -6,7 +6,7 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tan-biz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&border_radius=15" 
+  <img src="https://github-readme-stats.vercel.app/api?username=tan-biz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" 
        style="max-width: 500px; width: 75%; height: auto;"
        alt="stats graph" /> <br>
 
