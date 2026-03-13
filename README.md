@@ -7,17 +7,17 @@
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=tan-biz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&border_radius=15" 
-       style="max-width: 600px; width: 75%; height: auto;"
+       style="max-width: 600px; width: 75%; height: 40%;"
        alt="stats graph" /> <br>
 
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=tan-biz&locale=en&mode=daily=true&theme=chartreuse-dark&hide_border=false&border_radius=15" 
-      style="max-width: 600px; width: 75%; height: auto;" 
+      style="max-width: 600px; width: 75%; height: 40%;" 
        alt="streak graph" /> <br>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tan-biz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&border_radius=15&width=1000" 
-       style="max-width: 600px; width: 75%; height: auto;" 
+       style="max-width: 600px; width: 75%; height: 40%;" 
        alt="languages graph"  />
 </div>
 
