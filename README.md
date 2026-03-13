@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tan-biz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=tan-biz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="200" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=tan-biz&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="200" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tan-biz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="200" alt="languages graph"  />
 </div>
