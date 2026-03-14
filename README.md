@@ -11,7 +11,7 @@
        alt="stats graph" /> <br>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=tan-biz&locale=en&mode=daily=true&theme=chartreuse-dark&hide_border=false&border_radius=15" 
+  <img src="https://streak-stats.demolab.com?user=tan-biz&locale=en&mode=daily=true&theme=chartreuse-dark&hide_border=true&border_radius=15" 
       style="max-width: 500px; width: 75%; height: auto;" 
        alt="streak graph" /> <br>
 
