@@ -6,7 +6,7 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tan-biz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" 
+  <img src="https://github-readme-stats.vercel.app/api?username=tan-biz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true" 
        style="max-width: 500px; width: 75%; height: auto;"
        alt="stats graph" /> <br>
 
@@ -16,7 +16,7 @@
        alt="streak graph" /> <br>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tan-biz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&border_radius=15&width=1000" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tan-biz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&border_radius=15" 
        style="max-width: 500px; width: 75%; height: auto;" 
        alt="languages graph"  />
 </div>
