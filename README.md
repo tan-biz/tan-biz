@@ -12,12 +12,12 @@
 
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=tan-biz&locale=en&mode=daily=true&theme=chartreuse-dark&hide_border=true&border_radius=15" 
-      style="max-width: 500px; width: 75%; height: auto;" 
+      style="max-width: 400px; width: 75%; height: auto;" 
        alt="streak graph" /> <br>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tan-biz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&border_radius=15" 
-       style="max-width: 500px; width: 75%; height: auto;" 
+       style="max-width: 300px; width: 75%; height: auto;" 
        alt="languages graph"  />
 </div>
 
