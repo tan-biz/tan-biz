@@ -63,6 +63,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tan-biz/tan-biz/output/snake.svg" alt="Snake animation" />
 
 ###
